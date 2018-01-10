@@ -1,4 +1,4 @@
-package com.dell.PACS.rest;
+package com.dell.mars.PACS.rest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

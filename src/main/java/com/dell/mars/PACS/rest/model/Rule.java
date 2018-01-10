@@ -1,9 +1,9 @@
-package com.dell.PACS.rest.model;
+package com.dell.mars.PACS.rest.model;
 
-public class Greeting {
+public class Rule {
     private final long id;
     private final String content;
-    public Greeting(long id, String content){
+    public Rule(long id, String content){
         this.id = id;
         this.content = content;
     }
